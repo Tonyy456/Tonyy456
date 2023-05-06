@@ -4,6 +4,7 @@ I am Tony, I am a game developer based in Columbus, Ohio. I am graduating from O
 
 # Work in progress projects
 - [Marching Tetrahedrons Research](https://github.com/Tonyy456/MarchingTets)
+- [Procedural Simulations](https://github.com/Tonyy456/procedural-simulation)
 - [Custom Bash Setup](https://github.com/Tonyy456/BashCommands)
 
 # Old Projects
