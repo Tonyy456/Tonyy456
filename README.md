@@ -3,6 +3,7 @@ I am Tony, I am a game developer based in Columbus, Ohio. I am graduating from O
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,blender,cmake,discord,js,linux,neovim,py,unity,vite,unreal)](https://skillicons.dev)
 
 # Work in progress projects
+- [Project Portfolio](https://github.com/Tonyy456/tonyy456.github.io), [Deployed](https://tonyy456.github.io/)
 - [Marching Tetrahedrons Research](https://github.com/Tonyy456/MarchingTets)
 - [Procedural Simulations](https://github.com/Tonyy456/procedural-simulation)
 - [Custom Bash Setup](https://github.com/Tonyy456/BashCommands)
