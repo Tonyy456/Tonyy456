@@ -1,25 +1,21 @@
 # 👋 Hello There
-I am Tony, I am a game developer based in Columbus, Ohio. I am graduating from OSU in December 2023.  
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,blender,cmake,discord,js,linux,neovim,py,unity,vite,unreal)](https://skillicons.dev)
-
+I am Tony, I am a game developer based in Columbus, Ohio. I am graduating from OSU in December 2023.       
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,blender,cmake,discord,js,linux,neovim,py,unity,vite,unreal)](https://skillicons.dev)     
 [Tutorials and Documentation](https://github.com/Tonyy456/TutorialMaterial)
 
-# Organizations
-- [School Work](https://github.com/orgs/Tonyy456-OSU/repositories)  (most private for cheating reasons)
+### Current Projects
+- [Portfolio Rails Project](https://github.com/Tonyy456/Tony-Rails-Portfolio), [Deployed](www.antdev.cc)
+- [Custom Bash Setup](https://github.com/Tonyy456/BashCommands)
+  
+### Organizations
+- [School Work](https://github.com/orgs/Tonyy456-OSU/repositories)  (all private for cheating reasons, here mostly for tony's ease of use)
 - [Archived Projects](https://github.com/orgs/Tonyy456-OldProjects/repositories)  (work that isnt as important to me)
 
-# Work in progress projects
-- [Portfolio Rails Project](https://github.com/Tonyy456/Tony-Rails-Portfolio), [Github](https://github.com/Tonyy456/tonyy456.github.io), [Deployed](https://tonyy456.github.io/)
-- [Custom Bash Setup](https://github.com/Tonyy456/BashCommands)
+# [Custom Website](www.antdev.cc)
+![image](https://github.com/Tonyy456/Tonyy456/assets/96886789/87ac7c1e-d04a-4045-bc27-ddd58fd1d2d3)
+Checkout my website that displays my skills and interests! 
+- built using ruby on rails
+- deployed to Heroku
+- cloud storage is managed with an amazon s3 bucket.
+- PostgreSQL Database
 
-# Completed
-- [Python PathFinder](https://github.com/Tonyy456/PythonPathfinder)
-- [Marching Cubes and Boids](https://github.com/Tonyy456/BoidManeuverability)
-- [Legend Of Zelda](https://github.com/taystay/LOZ)
-  
-# Archived 
-- [Game Jam: Treenity](https://github.com/Tonyy456/Treenity)
-- [Game Jam: Kloby](https://github.com/Tonyy456/Kloby)
-- [First Unity Project](https://github.com/Tonyy456/Substratum)
-- [Procedural Simulations](https://github.com/Tonyy456/procedural-simulation)
-- [Marching Tetrahedrons Research](https://github.com/Tonyy456/MarchingTets)
