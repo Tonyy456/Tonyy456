@@ -4,6 +4,8 @@ I am Tony, I am a game developer based in Columbus, Ohio. I am graduating from O
 [Tutorials and Documentation](https://github.com/Tonyy456/TutorialMaterial)
 
 ### Current Projects
+- [CyberMachia Video Game](https://github.com/Tonyy456/Cybermachia)
+- [Tonks](https://github.com/Tonyy456/Tonks)
 - [Portfolio Rails Project](https://github.com/Tonyy456/Tony-Rails-Portfolio), [Deployed](www.antdev.cc)
 - [Custom Bash Setup](https://github.com/Tonyy456/BashCommands)
   
