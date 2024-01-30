@@ -13,7 +13,7 @@ https://www.antdev.cc/
 ```
 
 **Project Portfolio 2 in MERN stack**  
-(github repo)[https://github.com/Tonyy456/TonyDal-React]
+[github repo](https://github.com/Tonyy456/TonyDal-React)
 ```
 http://tonydal.com/
 ```
